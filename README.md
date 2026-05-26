@@ -2,4 +2,4 @@
 
 An online video call and with real time chat messaging website with rooms feature like discord 
 
-Site-https://t0xicat.github.io/Medi-call/
+Site-https://avinashtanwar01.github.io/Medi-call/lobby.html
